@@ -12,18 +12,21 @@ A RAG Chatbot made with Langflow and AstraDB, deployed with Docker, for the Leve
 * [`generate_dataset.py`](./generate_dataset.py)
   * Main Python script for data generation
   * Handles all the data processing
-  * Run this to collect new data
+  * Generated data through this and RLHFed through the claude-model.
 
 * [`social-media-engagement_bot.json`](./social-media-engagement_bot.json)
-  * Bot configuration file
-  * Contains all the settings for automated data collection
-  * Edit this to customize what data gets collected
+  * JSON file of the langflow workflow
+  * Contains all the settings for automated data retrieval and insight generation
+
+* [`langflow_code.py`](./langflow_code.py)
+  * Langflow python library code
+  * Created for more granular tweaking of components, and deploying on cloud.
 
 ## Todo:
-- [ ] Add Langflow integration
+- [ ] Adding More Langflow integration
   - [ ] Custom components for data processing
-  - [ ] Visual workflow builder
-  - [ ] Real-time data analysis
+  - [ ] Trying different embedding techniques and models
+  - [ ] Real-time data analysis (Streaming API)
 
 - [ ] Expand Bot Features
   - [ ] Multi-platform support

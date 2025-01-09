@@ -27,6 +27,13 @@ A RAG Chatbot made with Langflow and AstraDB, deployed with Docker, for the Leve
   * Contains basic data visualization.
 
 ## Outputs:
+Langflow Flow:
+1. Creating embeddings and storing in AstraDB
+![image](https://github.com/user-attachments/assets/9589b41d-9124-4eb4-b9f5-d6c294a1be99)
+
+2. Retrieval and Inference
+![image](https://github.com/user-attachments/assets/9ac6ee4c-9312-44df-bb4c-08fe548c8442)
+
 From the Langflow Playground:
 ![image](https://github.com/user-attachments/assets/fd20df4c-7705-4d6d-bf77-e04167376310)
 ![image](https://github.com/user-attachments/assets/e010686a-dc10-4acf-8244-3196a426ab47)

@@ -22,6 +22,10 @@ A RAG Chatbot made with Langflow and AstraDB, deployed with Docker, for the Leve
   * Langflow python library code
   * Created for more granular tweaking of components, and deploying on cloud.
 
+* [`streamlit_chatbot.py`](./streamlit_chatbot.py)
+  * Langflow API is integrated to a better ui and deployable chatbot
+  * Contains basic data visualization.
+
 ## Outputs:
 From the Langflow Playground:
 ![image](https://github.com/user-attachments/assets/fd20df4c-7705-4d6d-bf77-e04167376310)

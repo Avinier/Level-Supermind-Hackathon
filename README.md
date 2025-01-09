@@ -31,6 +31,11 @@ From the Langflow Playground:
 ![image](https://github.com/user-attachments/assets/fd20df4c-7705-4d6d-bf77-e04167376310)
 ![image](https://github.com/user-attachments/assets/e010686a-dc10-4acf-8244-3196a426ab47)
 
+From Streamlit Chatbot:
+![image](https://github.com/user-attachments/assets/7a519993-6dc4-4652-8cd4-da66ad870ff6)
+![image](https://github.com/user-attachments/assets/05023133-d108-4c60-a6eb-c55ada6fcfe7)
+
+
 
 ## Todo:
 - [ ] Adding More Langflow integration
